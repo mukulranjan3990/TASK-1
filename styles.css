@@ -1,0 +1,136 @@
+body {
+    
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    background: #0073e6;
+    color: white;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 2px;
+}
+#logo{
+    margin-bottom:0%;
+}
+#header{
+    margin-top: 0%;
+}
+.bihar_container{
+    display:inline-flex;
+    background:transparent;
+}
+.content{
+    color: blue; 
+    background-color: transparent;
+    padding: 10px;
+   
+}
+.headword{
+    margin-bottom: 3px;
+}
+.headline{
+    
+    border:1px solid #4f4d4d;
+}
+.media_galary{
+    height:fit-content;
+    width: fit-content;
+    right: 28px;
+    border:2px solid #000000;
+    
+   justify-items:center;
+}
+.media_galary2{
+    height:fit-content;
+    width: fit-content;
+    left: 28px;
+    border:2px solid #000000;
+    
+   justify-items:center;
+}
+.image{
+    margin:  5px;
+    width: 474px;
+    height:auto;
+    border:3px solid #000000;
+}
+.image2{
+    margin:  5px;
+    width: 250px;
+    height:auto;
+    border:3px solid #000000;
+}
+.button {
+    
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #000000;
+}
+.bihar_district{
+    text-align: center;
+    margin: auto;
+}
+.logo {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo span {
+    color: #0400ff;
+}
+
+footer{
+    margin-top: 10%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #5e5e5e;
+    color: #f4f4f4;
+}
+.container{
+    padding: 20px;
+    gap: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.footh2{
+    text-align: center;
+}
+.boxes{
+    text-align: left;
+    min-height: 200px;
+    width: 200px;
+}
+
+.list{
+    color: #000000;
+    line-height: 40px;
+}
+.list :hover{
+    color: #ff0000;
+}
+.stya{
+    color: goldenrod;
+    text-align: center ;
+}
+#chkr{
+    width: 144px;
+    height: 144px;
+}
